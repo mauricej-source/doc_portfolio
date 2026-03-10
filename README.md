@@ -22,7 +22,7 @@ What you will find current within this repository are both professional and pers
 The book currently committed to this repository is not a complete and or finished book.
 The complete work will eventually be published and available on Amazon Kindle, IngramSpark, and Booksby.  As publication is reviewed and approved, links will be provided for all publication platforms.
 
-03. The thrid set of personal work is a series of Christmas Cards. Those representing years of festivities and Christmas Spirit as one year has transcended to the next. They are short in nature, yet should provide the reader, a better understanding of the type and kind of writing style I have as an imaginative creator with a technical mindset, swirled together and leveraged professionally and personally on any given day.
+03. The third set of personal work is a series of Christmas Cards. Those representing years of festivities and Christmas Spirit as one year has transcended to the next. They are short in nature, yet should provide the reader, a better understanding of the type and kind of writing style I have as an imaginative creator with a technical mindset, swirled together and leveraged professionally and personally on any given day.
 
 03. The fourth will be a fresh/current copy of my resume targeting 'Technical Writing'.
 
