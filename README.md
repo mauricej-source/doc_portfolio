@@ -23,13 +23,11 @@ As publication is reviewed and approved, links will be provided for all publicat
 
 02. The second set of personal work is a series of Christmas Cards. Those representing years of festivities and Christmas Spirit as one year has transcended to the next. They are short in nature, yet should provide the reader, a better understanding of the type and kind of writing style I have as an imaginative creator with a technical mindset, swirled together and leveraged professionally and personally on any given day.
 
-03. The third will be fresh/current copies of my resume targeting 'Technical Writing'.
+03. The third will be a fresh/current copy of my resume targeting 'Technical Writing'.
 
-> If there are any questions, please feel free to ping me at one the following:
-> Email: mauricejohnson3@protonmail.com
-> Phone: 904-477-2268
+>
+> If there are any questions and or require more information, 
+> please feel free to ping me at one the following:
+>
 
-  
-[LinkedIn Profile](https://www.linkedin.com/in/maurice-johnson-80085/)
-
-[Personal Website](https://www.trippinthecurl.com/about)
+mauricejohnson3@protonmail.com | 904-477-2268 | [LinkedIn](https://www.linkedin.com/in/maurice-johnson-80085/) | [Personal Website](https://www.trippinthecurl.com/about)
