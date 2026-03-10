@@ -7,9 +7,11 @@ Most of my professional documentation, has been onsite, within the designate org
 
 Here is the [Link](https://www.atlassian.com/software/confluence) if curious.
 
-What you will find current within this repository are personal works. Those to represent my portfolio, as I continue to provide examples of work for that next job opportunity.
+What you will find current within this repository are both professional and personal works. Those that will represent my portfolio, as I continue to seek that next professional opportunity.
 
-01. The first is a Book, one that have been a focus for the past 7+ months. I just recently finished. One that has just been published with the Amazon Kindle Platform. Currently awaiting the 72 Hour Review Period to see if Amazon Approves of my efforts. Rather excited I must Say. Here is what you can expect.
+01. The first set of professional technical writing pertains to both Microsoft Word and PDF Files generated from the Atlassian Confluence Product.  Most maintained their respective boards.  There will be an occassional table that did not generate properly and the column might have been significantly reduced.  For the best examples I would point the end user to those documents perfixed with 'Developer Workstation', howver feel free to peruse.  I will focus on continueing to commit as many examples as possible.
+
+02. The second is a Non-Fiction Book, one that have been a focus for the past 7+ months. I just recently finished. One that has just been published with the Amazon Kindle Platform. Currently awaiting the 72 Hour Review Period to see if Amazon Approves of my efforts. Rather excited I must Say. Here is what you can expect.
 
 > What happens when 24 years of expertise meets a "fear of missing out" (FOMO) corporate revolution?
 >
@@ -21,9 +23,9 @@ The book currently committed to this repository is not the complete and or finis
 The complete work will eventually be published on Amazon Kindle, IngramSpark, and Books.by.
 As publication is reviewed and approved, links will be provided for all publication platforms.
 
-02. The second set of personal work is a series of Christmas Cards. Those representing years of festivities and Christmas Spirit as one year has transcended to the next. They are short in nature, yet should provide the reader, a better understanding of the type and kind of writing style I have as an imaginative creator with a technical mindset, swirled together and leveraged professionally and personally on any given day.
+03. The thrid set of personal work is a series of Christmas Cards. Those representing years of festivities and Christmas Spirit as one year has transcended to the next. They are short in nature, yet should provide the reader, a better understanding of the type and kind of writing style I have as an imaginative creator with a technical mindset, swirled together and leveraged professionally and personally on any given day.
 
-03. The third will be a fresh/current copy of my resume targeting 'Technical Writing'.
+03. The fourth will be a fresh/current copy of my resume targeting 'Technical Writing'.
 
 >
 > If there are any questions and or require more information, 
