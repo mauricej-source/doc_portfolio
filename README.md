@@ -9,7 +9,7 @@ Here is the [Link](https://www.atlassian.com/software/confluence) if curious.
 
 What you will find current within this repository are both professional and personal works. Those that will represent my portfolio, as I continue to seek that next professional opportunity.
 
-01. The first set of professional technical writing pertains to both Microsoft Word and PDF Files generated from the Atlassian Confluence Product.  Most maintained their respective boards.  There will be an occassional table that did not generate properly and the column might have been significantly reduced.  For the best examples I would point the end user to those documents perfixed with 'Developer Workstation', howver feel free to peruse.  I will focus on continueing to commit as many examples as possible.
+01. The first set of professional technical writing pertains to both Microsoft Word and PDF Files generated from the Atlassian Confluence Product.  Most maintained their respective borders.  There will be an occasional table that did not generate properly and the column might have been significantly reduced.  For the best examples I would point the end user to those documents prefixed with 'Developer Workstation', however feel free to peruse.  I will focus on continuing to commit as many examples as possible.
 
 02. The second is a Non-Fiction Book, one that have been a focus for the past 7+ months. I just recently finished. One that has just been published with the Amazon Kindle Platform. Currently awaiting the 72 Hour Review Period to see if Amazon Approves of my efforts. Rather excited I must Say. Here is what you can expect.
 
