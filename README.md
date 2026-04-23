@@ -11,24 +11,13 @@ What you will find current within this repository are both professional and pers
 
 01. The first set of professional technical writing pertains to both Microsoft Word and PDF Files generated from the Atlassian Confluence Product.  Most maintained their respective borders.  There will be an occasional table that did not generate properly and the column might have been significantly reduced.  For the best examples I would point the end user to those documents prefixed with 'Developer Workstation', however feel free to peruse.  I will focus on continuing to commit as many examples as possible.
 
-01. The second set of my portfolio is related to my days as a Mechanical Engineer.  Projects that took me from the Giants Stadium, to Intel, to the Kennedy Space Center Shuttle Launch Pads. 
+02. The second set of my portfolio is related to my days as a Mechanical Engineer.  Projects that took me from the Giants Stadium, to Intel, to the Kennedy Space Center Shuttle Launch Pads. 
 
-03. The third is a Non-Fiction Book, one that has been a focus for the past 7+ months. I just recently finished and have ordered a 'Proof'.  One that has just been published with the Amazon Kindle Platform.  Currently awaiting the 72 Hour Review Period to see if Amazon Approves of my efforts. Rather excited I must Say.  Here is what you can expect.
+03. The third being a current set of Professional Certifications achieved to date.
 
-> What happens when 24 years of expertise meets a "fear of missing out" (FOMO) corporate revolution?
->
-> In _A Fractured IT_, Maurice Johnson delivers a raw, observational account of the Information Technology Industry’s sudden and aggressive pivot toward Artificial Intelligence. Part professional diary and part industry critique, this book follows the author’s journey from a sudden unemployment, triggered by his own vocal concerns of the AI Integration without regard for Risk Assessment and Mitigation, to the very front lines of a job market that has fundamentally shifted in just a few short months.
->
-> Johnson deconstructs the "Magical Merry-Go-Round" of C-Suite Mandates, exploring how the drive for bottom-line efficiency risks creating a "Digital Twin" of the workforce that could eventually replace the very engineers who built it. From the "rounding of the mind" in traditional university education to the "industrial laziness" encouraged by modern coding frameworks and reduction of overall boilerplate, _A Fractured IT_ is a must-read for anyone navigating a career in a world where the "Kill Switch" for human-centric engineering may already have been flipped.
+04. The fourth set of personal work is a series of Christmas Cards. Those representing years of festivities and Christmas Spirit as one year has transcended to the next. They are short in nature, yet should provide the reader, a better understanding of the type and kind of writing style I have as an imaginative creator with a technical mindset, swirled together and leveraged professionally and personally on any given day.
 
-The book currently committed to this repository is not a complete and or finished book.
-The complete work will eventually be published and available on Amazon Kindle, IngramSpark, and Booksby.  As publication is reviewed and approved, links will be provided for all publication platforms.
-
-04. The fourth being a current set of Professional Certifications achieved to date.
-
-05. The fifth set of personal work is a series of Christmas Cards. Those representing years of festivities and Christmas Spirit as one year has transcended to the next. They are short in nature, yet should provide the reader, a better understanding of the type and kind of writing style I have as an imaginative creator with a technical mindset, swirled together and leveraged professionally and personally on any given day.
-
-06. The sixth will be a fresh/current copy of my resume targeting 'Technical Writing', current certifications, and latest professional experience - AI Model Training.
+05. The fifth will be a fresh/current copy of my resume targeting 'Senior Software Platform API Engineering', current certifications, and latest professional experience - AI Model Training, Agentic AI Models, LLMs, and Automated AI Workflows.
 
 >
 > If there are any questions and or require more information, 
