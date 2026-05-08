@@ -17,7 +17,7 @@ What you will find current within this repository are both professional and pers
 
 04. The fourth set of personal work is a series of Christmas Cards. Those representing years of festivities and Christmas Spirit as one year has transcended to the next. They are short in nature, yet should provide the reader, a better understanding of the type and kind of writing style I have as an imaginative creator with a technical mindset, swirled together and leveraged professionally and personally on any given day.
 
-05. The fifth will be a fresh/current copy of my resume targeting 'Senior Software Platform API Engineering', current certifications, and latest professional experience - AI Model Training, Agentic AI Models, LLMs, and Automated AI Workflows.
+05. The fifth will be a fresh/current copy of my resume targeting 'Senior Solutions Engineer', current certifications, and latest professional experience - AI Model Training, Agentic AI Models, LLMs, and Automated AI Workflows.
 
 >
 > If there are any questions and or require more information, 
